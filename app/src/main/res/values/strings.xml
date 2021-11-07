@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">gamocda</string>
+    <string name="firstone">ტექ-ინსექტირება</string>
+    <string name="secondone">XX</string>
+    <string name="textVIEW">ტექ-ინსპექტირება</string>
+    <string name="hint2">000</string>
+    <string name="hint1">XX</string>
+    <string name="hint3">XX</string>
+    <string name="editTEXTlast">ტექ-პასპორტის ნომერი</string>
+    <string name="button">შემოწმება</string>
+</resources>
